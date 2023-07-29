@@ -6,3 +6,5 @@ class Solution:
                if sum == target:
                    return [i,j]
                
+# hhh
+               
