@@ -5,3 +5,4 @@ class Solution:
                sum = nums[i]+nums[j]
                if sum == target:
                    return [i,j]
+               
