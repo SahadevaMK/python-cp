@@ -12,3 +12,5 @@ class Solution:
                 if res[i] == maxim:
                     return i
         return -1
+    
+    print('we aare in the ssame boat')
